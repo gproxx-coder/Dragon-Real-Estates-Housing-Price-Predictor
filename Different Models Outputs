@@ -1,0 +1,13 @@
+1. Random Forest Regression Model
+    Mean:  3.4679444923659255
+    Standard Deviation:  0.7279099044712717
+
+2. Decision Tree Regression Model
+    Mean:  4.886481543273366
+    Standard Deviation:  1.3604081455102708    
+
+3. Linear Regression Model
+    Mean:  5.076268839287165
+    Standard Deviation:  1.0127414984007868
+
+** Hence we selected Random Forest Regression Model.
