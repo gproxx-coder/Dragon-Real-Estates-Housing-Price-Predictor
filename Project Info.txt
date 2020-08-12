@@ -1,4 +1,4 @@
-*Project Name: Housing Price Detector for Dragon Real Estates Company
+*Project Name: Housing Price Detector for Dragon Real Estates Company.
 
 
 *Dataset Used: Boston Housing Data from UCI ML Repository. 
