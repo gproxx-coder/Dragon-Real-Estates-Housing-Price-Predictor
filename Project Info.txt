@@ -11,17 +11,20 @@
     -There is a company named Dragon Real Estates Pvt. Ltd.
 
     -We have to make such a Machine Learning model for them so that they can
-    predict house price and archive their goals easily.
+    predict house price and achieve their goals easily.
     
-    -They will input 13 Features and Our Machine Learning Model will
-    predict Price (Label) based on the Features.
+    -User will insert 13 Features one by one.
+    
+    -Our Machine Learning Model will predict Price (Label) based on the Features.
 
 
 *Instruction of usage:
     1. Open predictor.py file
-    2. Make Numpy Array of 13 Features except MEDV. Features are given below.
-    3. Run the code. It will predict MEDV i.e. Price of house in $1000's
-    4. More information about dataset is given in housing.names file.
+    2. Run the code.
+    3. Insert 13 features one by one.
+    4. It will predict MEDV i.e. Price of house in $1000's
+    
+**Note: More information about dataset is given in housing.names file.
 
 
 *Project Attributes:
